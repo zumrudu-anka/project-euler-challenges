@@ -1,47 +1,39 @@
 #include <iostream>
+#include <iomanip>
+#include <cmath>
 
 using namespace std;
 
-
 int main(){
     int t;
-    cin >> t;
-    for(int a0 = 0; a0 < t; a0++){
-        long long int n,temp;
+    cout<<endl<<setw(58)<<"Girilen Sayinin En Buyuk Asal Boleni"<<endl;
+    begin:cout<<endl<<"Kac Deneme Yapmak Istediginizi Belirtin: ";
+    cin>>t;
+    for(int i = 0; i < t; i++){
+        long long n;
+        cout<<endl<<i + 1<<". Sayiyi Giriniz: ";
         cin >> n;
-        temp=n;
-            if(temp%2==0){
-            while(temp%2==0){
-                temp=temp/2;
-            }
-            if(temp==1)cout<<2;
-            else{
-                for(long long int i=3;i<n/2+1;i+=2){
-                        while(temp%i==0){
-                        temp/=i;
-                        }
-                        if(temp==1){
-                        cout<<i<<endl;
-                        break;
-                        }
-
-                }
-            }
+        while(n % 2==0){
+            n /= 2;
         }
-        else{
-            for(long long int i=3;i<n/2+1;i+=2){
-                while(temp%i==0){
-                    temp/=i;
+        if(n == 1){
+            cout <<endl<<i + 1<<". Sonuc: "<< 2 << endl;
+            continue;
+        }
+        for(int j = 3 ; j < sqrt(n) + 2 ; j += 2){
+            if(n % j == 0){
+                while (n % j == 0){
+                    n /= j;
                 }
-                if(temp==1){
-                    cout<<i<<endl;
+                if(n == 1){
+                	cout <<endl<<i + 1<<". Sonuc: "<< j << endl;
                     break;
-                    }
                 }
-            if(temp!=1)cout<<n<<endl;
+            }
         }
-        
-        
+        if(n > 2){
+            cout <<endl<<i + 1<<". Sonuc: "<< n << endl;
+        }
     }
     return 0;
 }
