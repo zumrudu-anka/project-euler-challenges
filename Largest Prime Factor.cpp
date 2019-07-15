@@ -35,5 +35,13 @@ int main(){
             cout <<endl<<i + 1<<". Sonuc: "<< n << endl;
         }
     }
+    cout<<endl<<"Programi Kapatmak Icin 0, Yeniden Baslatmak Icin Herhangi Bir Tusa Basiniz: ";
+    cin >> t;
+    switch(t){
+    	case 0:
+    		exit(0);
+    	default:
+    		goto begin;
+	}
     return 0;
 }
