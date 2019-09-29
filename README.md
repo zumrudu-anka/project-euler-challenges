@@ -1,7 +1,7 @@
 <h1>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspProject Euler Challenges</h1>
 
 <ol>
-  <li><strong><a href="#title1">Multiples of 3 and 5<a></strong><br></li>
+  <li><strong><a href="/#title1">Multiples of 3 and 5<a></strong><br></li>
   <li><strong><a href="#title2">Even Fibonacci Numbers<a></strong><br></li>
   <li><strong><a href="#title3">Largest Prime Factor<a></strong><br></li>
   <li><strong><a href="#title4">Largest Palindrome Product<a></strong><br></li>
