@@ -10,7 +10,7 @@
 
 <h2 id="title">&#x27A5 Multiples of 3 and 5</h2>
 <p><strong>Türkçe</strong><br>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp10 sayısından küçük, 3 veya 5'in katları olan tüm doğal sayıları listelediğimizde 3, 5, 6 ve 9 sayılarını elde ederiz. 1000'in altındaki 3 veya 5'in katlarının toplamını bulun. &#x261B <a href="">Çözümüm</a> &#x2615</p>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp10 sayısından küçük, 3 veya 5'in katları olan tüm doğal sayıları listelediğimizde 3, 5, 6 ve 9 sayılarını elde ederiz. 1000'in altındaki 3 veya 5'in katlarının toplamını bulun. &#x261B <a href="1.Multiples of 3 and 5.cpp">Çözümüm</a> &#x2615</p>
 <p><strong>English</strong><br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbspIf we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23. Find the sum of all the multiples of 3 or 5 below 1000. &#x261B <a href="">My Solution</a> &#x2615</p>
 
