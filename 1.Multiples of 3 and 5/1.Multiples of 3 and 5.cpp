@@ -12,7 +12,10 @@ int main(){
         cout<<endl<<i + 1<<". Pozitif Sayiyi Giriniz: ";
         cin >> n;
         
-        long a = (n - 1) / 3, b = (n - 1) / 5, c = (n - 1) / 15;
+        // Girilen sayıdan kücük 3'e 5'e ve 15'e bölünebilen sayi miktari
+        int a = (n - 1) / 3;
+        int b = (n - 1) / 5;
+        int c = (n - 1) / 15;
         
         long d = 3 * a * (a + 1)/2 + 5 * b * (b + 1)/2 - 15 * c * (c + 1)/2;
         
