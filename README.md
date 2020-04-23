@@ -12,4 +12,5 @@
   <li><strong><a href="https://github.com/zumrudu-anka/Project-Euler-Challenges/tree/master/5.Smallest%20Multiple">Smallest Multiple<a></strong><br></li>
   <li><strong><a href="https://github.com/zumrudu-anka/Project-Euler-Challenges/tree/master/6.Sum%20Square%20Difference">Sum Square Difference<a></strong><br></li>
   <li><strong><a href="https://github.com/zumrudu-anka/Project-Euler-Challenges/tree/master/7.10001st%20Prime">10001st Prime<a></strong><br></li>
+  <li><strong><a href="https://github.com/zumrudu-anka/Project-Euler-Challenges/tree/master/8.Largest%20Product%20In%20A%20Series">Largest Product In A Series<a></strong><br></li>
 </ol>
