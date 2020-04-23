@@ -4,6 +4,7 @@
         "**/templates/includes/*.html": "django-html",
         "**/templates/*": "django-txt",
         "iostream": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "ostream": "cpp"
     }
 }
