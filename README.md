@@ -1,6 +1,6 @@
 <h1>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspProject Euler Challenges</h1>
 
-**Not:** <a href="https://www.hackerrank.com/contests/projecteuler/challenges" target="_blank">HackerRank</a> üzerindeki <a href="https://projecteuler.net/archives" target="_blank">Project Euler</a> problemlerinin çözümleridir. Çözüm, koşma zamanı da gözetilerek kontrol edilir.
+**Not:** <a href="https://www.hackerrank.com/contests/projecteuler/challenges" target="_blank">HackerRank</a> üzerindeki <a href="https://projecteuler.net/archives" target="_blank">Project Euler</a> problemlerinin çözümleridir. Çözüm, koşma zamanı da gözetilerek kontrol edilir.[link](https://projecteuler.net/archives){:target="_blank"}
 
 **Note:** These solutions are for <a href="https://projecteuler.net/archives" target="_blank">Project Euler</a> Challenges on <a href="https://www.hackerrank.com/contests/projecteuler/challenges" target="_blank">HackerRank</a>. The solution is controlled by taking into account the running time.
 
