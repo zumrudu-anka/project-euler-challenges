@@ -1,4 +1,4 @@
-||Multiples of 3 and 5||
+||Smallest Multiple||
 |:-:|:-:|:-:|
-|**Türkçe**|*10 sayısından küçük, 3 veya 5'in katları olan tüm doğal sayıları listelediğimizde 3, 5, 6 ve 9 sayılarını elde ederiz. 1000'in altındaki 3 veya 5'in katlarının toplamını bulun.*|[Çözüm](./1.Multiples%20of%203%20and%205.cpp)&#x2615;|
-|**English**|*If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23. Find the sum of all the multiples of 3 or 5 below 1000.*|[Solution](./1.Multiples%20of%203%20and%205.cpp)&#x2615;|
+|**Türkçe**|*2520, 1'den 10'a kadar olan sayıların her biri tarafından bölünebilen en küçük sayıdır. Yani 1'den 10'a kadar olan sayıların en küçük ortak katıdır.<br>1'den 20'ye kadar olan tüm sayılar tarafından eşit bir şekilde bölünebilen en küçük pozitif sayı nedir?*|[Çözüm](./5.Smallest%20Multiple.cpp)&#x2615;|
+|**English**|*2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.<br>What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?*|[Solution](./5.Smallest%20Multiple.cpp)&#x2615;|
