@@ -1,9 +1,8 @@
 <h1>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspProject Euler Challenges</h1>
 
-**Not:** <a href="https://www.hackerrank.com/contests/projecteuler/challenges" target="_blank">HackerRank</a> üzerindeki <a href="https://projecteuler.net/archives" target="_blank">Project Euler</a> problemlerinin çözümleridir. Çözüm, koşma zamanı da gözetilerek kontrol edilir.
-[link](https://google.com/?target=_blank)
+**Not:** <a href="https://www.hackerrank.com/contests/projecteuler/challenges">HackerRank</a> üzerindeki <a href="https://projecteuler.net/archives">Project Euler</a> problemlerinin çözümleridir. Çözüm, koşma zamanı da gözetilerek kontrol edilir.
 
-**Note:** These solutions are for <a href="https://projecteuler.net/archives" target="_blank">Project Euler</a> Challenges on <a href="https://www.hackerrank.com/contests/projecteuler/challenges" target="_blank">HackerRank</a>. The solution is controlled by taking into account the running time.
+**Note:** These solutions are for <a href="https://projecteuler.net/archives">Project Euler</a> Challenges on <a href="https://www.hackerrank.com/contests/projecteuler/challenges">HackerRank</a>. The solution is controlled by taking into account the running time.
 
 <ol>
   <li><strong><a href="https://github.com/zumrudu-anka/Project-Euler-Challenges/tree/master/1.Multiples%20of%203%20and%205">Multiples of 3 and 5<a></strong><br></li>
