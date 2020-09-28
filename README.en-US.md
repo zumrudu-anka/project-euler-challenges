@@ -1,6 +1,6 @@
 <p align="right">
-  <a href="https://github.com/zumrudu-anka/Project-Euler-Challenges/tree/master/README.md">Türkçe</a>
-  English
+  <a href="https://github.com/zumrudu-anka/Project-Euler-Challenges/tree/master/">Türkçe</a>
+   / English
 </p>
 <h1 align="center">Project Euler Challenges</h1>
 
