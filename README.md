@@ -1,8 +1,10 @@
-<h1>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspProject Euler Challenges</h1>
+<p align="right">
+  Türkçe / 
+  <a href="https://github.com/zumrudu-anka/Project-Euler-Challenges/tree/master/README.en-US.md">English</a>
+</p>
+<h1 align="center">Project Euler Challenges</h1>
 
 **Not:** <a href="https://www.hackerrank.com/contests/projecteuler/challenges">HackerRank</a> üzerindeki <a href="https://projecteuler.net/archives">Project Euler</a> problemlerinin çözümleridir. Çözüm, koşma zamanı da gözetilerek kontrol edilir.
-
-**Note:** These solutions are for <a href="https://projecteuler.net/archives">Project Euler</a> Challenges on <a href="https://www.hackerrank.com/contests/projecteuler/challenges">HackerRank</a>. The solution is controlled by taking into account the running time.
 
 <ol>
   <li><strong><a href="https://github.com/zumrudu-anka/Project-Euler-Challenges/tree/master/1.Multiples%20of%203%20and%205">Multiples of 3 and 5<a></strong><br></li>
