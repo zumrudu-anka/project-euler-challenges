@@ -10,5 +10,4 @@ Bir Pisagor üçlüsü, `a < b < c` şartını sağlayan üç doğal sayıdan ol
 <code>a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup></code> eşitliği söz konusudur.
 Örneğin, <code>3<sup>2</sup> + 4<sup>2</sup> = 9 + 16 = 25 = 5<sup>2</sup></code>.
 
-There exists exactly one Pythagorean triplet for which a + b + c = 1000.
-Find the product abc.
+`a + b + c = 1000` eşitliğini sağlayan sadece 1 tane pisagor üçlüsü vardır. Bu üçlü için `a * b * c` çarpımını bulun.
