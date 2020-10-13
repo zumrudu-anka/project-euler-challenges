@@ -33,30 +33,40 @@
     <strong>
       <a href="https://github.com/zumrudu-anka/Project-Euler-Challenges/tree/master/4.Largest%20Palindrom%20Product">Largest Palindrome Product
       <a>
+       / 
+      <a href="https://www.hackerrank.com/contests/projecteuler/challenges/euler004/problem">See on HackerRank<a>
     </strong>
   </li>
   <li>
     <strong>
       <a href="https://github.com/zumrudu-anka/Project-Euler-Challenges/tree/master/5.Smallest%20Multiple">Smallest Multiple
       <a>
+       / 
+      <a href="https://www.hackerrank.com/contests/projecteuler/challenges/euler005/problem">See on HackerRank<a>
     </strong>
   </li>
   <li>
     <strong>
       <a href="https://github.com/zumrudu-anka/Project-Euler-Challenges/tree/master/6.Sum%20Square%20Difference">Sum Square Difference
       <a>
+       / 
+      <a href="https://www.hackerrank.com/contests/projecteuler/challenges/euler006/problem">See on HackerRank<a>
     </strong>
   </li>
   <li>
     <strong>
       <a href="https://github.com/zumrudu-anka/Project-Euler-Challenges/tree/master/7.10001st%20Prime">10001st Prime
       <a>
+       / 
+      <a href="https://www.hackerrank.com/contests/projecteuler/challenges/euler007/problem">See on HackerRank<a>
     </strong>
   </li>
   <li>
     <strong>
       <a href="https://github.com/zumrudu-anka/Project-Euler-Challenges/tree/master/8.Largest%20Product%20In%20A%20Series">Largest Product In A Series
       <a>
+       / 
+      <a href="https://www.hackerrank.com/contests/projecteuler/challenges/euler008/problem">See on HackerRank<a>
     </strong>
   </li>
   <li>
